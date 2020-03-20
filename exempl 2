@@ -1,0 +1,17 @@
+DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		for( let i=15; i>0; i--){ 
+    document.write("</br>"); 
+		for (j=16-i; j<=15; j++){
+	document.write("x")}}
+    
+	</script>
+	
+
+</body>
+</html>
